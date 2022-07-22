@@ -1,6 +1,8 @@
 # Palindrome-Birthday
 Mark13--Palindrome birthday checker
 
+A vanilla JS app which tells you if your birthday is a palindrome or not and also tells you which is the nearest palindrome date from the date given.
+
 # Live link
 https://palindrome-birthday-checker-01.netlify.app/
 
