@@ -27,7 +27,7 @@ main {
     background-color: #1E2761 ;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 2rem 0;
     height: 100%;
@@ -35,7 +35,7 @@ main {
 }
 
 main label{
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   padding: 0.4rem;
 
 }
@@ -138,6 +138,12 @@ button:hover{
   }
 
 /* ---------- */
+
+.policy{
+  /* margin-top: 4rem; */
+  color: greenyellow;
+  font-size: 0.8rem;
+}
 
 footer {
 display: flex;
