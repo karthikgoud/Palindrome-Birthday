@@ -7,4 +7,4 @@ A vanilla JS app which tells you if your birthday is a palindrome or not and als
 # Live link
 https://palindrome-birthday-checker-01.netlify.app/
 
-<img width="890" alt="image" src="https://user-images.githubusercontent.com/9660782/188650926-e67e70de-c021-415b-a51b-cd2eb9e3f24a.png">
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/9660782/189605902-b0b15000-50e3-4446-8188-a4e07a0973bb.png">
