@@ -98,14 +98,12 @@ button:hover{
     color: white;
     font-weight: 700;
     font-size: 1.4rem;
-    /* margin: 2rem 0 0 0; */
 }
 
 #previous-output{
     color: white;
     font-weight: 700;
     font-size: 1.4rem;
-    /* margin: 2rem 0 0 0; */
 
 }
 
@@ -168,7 +166,6 @@ button:hover{
 /* ---------- */
 
 .policy{
-  /* margin-top: 4rem; */
   color: #B9D9EB;
   font-size: 1rem;
 }
@@ -183,6 +180,51 @@ gap: 1.5rem;
 padding: 0.5rem;
 }
 
-  .social-icons{
+.social-icons{
     width: 1.6rem;
+}
+
+/* media queries */
+
+@media (max-width:426px){
+
+  .heading{
+    padding: 1rem;
+    font-size: 1.6rem;
+}
+
+  .app-details{
+    font-size: 0.8rem;
+    width: 50%;
+    background-color: #191919;
+    padding: 1rem;
+    color: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px lightskyblue;
+  }
+  
+  .highlight{
+    color: lightcoral;
+  }
+
+  main label{
+    font-size: 1.4rem;
+    padding: 0.4rem;
+  
+  }
+
+  #next-output{
+    font-size: 1rem;
+    padding:0 2.5rem;
+  }
+
+  #previous-output{
+    font-size: 1rem;
+    padding: 0 2.5rem;
+  }
+
+  .policy{
+    font-size: 0.6rem;
+  }
+
 }
