@@ -1,10 +1,8 @@
-# Mark13: Palindrome-Birthday
+# Mark-13: Palindrome-Birthday-Checker
 
-## Palindrome birthday checker
+### What is Palindrome ? - The characters read the same backward and forward The app tells you.
 
 A vanilla JS app which tells you if your birthday is a palindrome or not and also tells you which is the nearest palindrome date from the date given.
 
-# Live link
-https://palindrome-birthday-checker-01.netlify.app/
+![image](https://user-images.githubusercontent.com/9660782/192272876-ef8f2767-a2f8-4c5e-9649-25e99b389a07.png)
 
-<img width="848" alt="image" src="https://user-images.githubusercontent.com/9660782/189605902-b0b15000-50e3-4446-8188-a4e07a0973bb.png">
